@@ -1,3 +1,3 @@
-# SMU-datamining
+# Climate Change Using Data from Reddit
 
-Taos Summit on Mythologies and Worldviews
+2019 SMU Think-Play-Hack 
